@@ -11,4 +11,7 @@ Supporting libraries:
 
 ## UML Diagrams
 
+# Activity Diagram
+![activity diagram](https://raw.githubusercontent.com/armellini13/coffee-crypto/main/images/Activity%20Diagram.png)
+
 
