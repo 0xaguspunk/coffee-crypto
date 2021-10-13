@@ -11,7 +11,17 @@ Supporting libraries:
 
 ## UML Diagrams
 
-# Activity Diagram
+### Activity Diagram
 ![activity diagram](https://raw.githubusercontent.com/armellini13/coffee-crypto/main/images/Activity%20Diagram.png)
+
+### Sequence Diagram
+![activity diagram](https://raw.githubusercontent.com/armellini13/coffee-crypto/main/images/Sequence%20Diagram.png)
+
+### State Diagram
+![activity diagram](https://raw.githubusercontent.com/armellini13/coffee-crypto/main/images/State%20Diagram.png)
+
+### Class Diagram
+![activity diagram](https://raw.githubusercontent.com/armellini13/coffee-crypto/main/images/Class%20Diagram.png)
+
 
 
